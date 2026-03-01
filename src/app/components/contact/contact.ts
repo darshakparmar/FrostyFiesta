@@ -30,7 +30,7 @@ import { Component } from '@angular/core';
             <div class="icon">📞</div>
             <div>
               <h3>Call Us</h3>
-              <p>+91 9876543210</p>
+              <p>+91 9409722982</p>
             </div>
           </div>
         </div>
