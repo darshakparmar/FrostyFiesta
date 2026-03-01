@@ -1,0 +1,13 @@
+@if (isLoading()) {
+<app-loader></app-loader>
+} @else {
+<app-header></app-header>
+<main>
+  <app-hero id="home"></app-hero>
+  <app-about id="about"></app-about>
+  <app-products id="flavors"></app-products>
+  <app-team id="team"></app-team>
+  <app-contact id="contact"></app-contact>
+</main>
+<app-footer></app-footer>
+}
